@@ -104,6 +104,14 @@ p {
   margin-left: 20px;
 }
 
+#moral {
+  padding: 5px 0 0;
+}
+
+.carousel-para {
+  font-size: 10px;
+}
+
 .contact-me {
   margin-top: 80px;
   line-height: 2;
@@ -142,7 +150,7 @@ p {
   cursor: pointer;
   text-align: center;
   line-height: 1;
-  margin: 40px auto 40px auto;
+  margin: 70px auto 40px auto;
 }
 
 .BUTTON_ZJZ:hover {
@@ -157,6 +165,7 @@ p {
   -moz-border-radius: 20px;
   border-radius: 15px;
   text-decoration: none;
+  color: white;
 }
 
 .bottom-container {
@@ -179,6 +188,7 @@ a {
   font-size: 25px;
   transition: 0.5s;
   color: #F6F6F6;
+  text-decoration: none;
 }
 
 .copyright {
